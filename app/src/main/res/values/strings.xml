@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CVbuilder</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_home">HOME</string>
+    <string name="tab_work">WORK</string>
+    <string name="tab_about_me">ABOUT</string>
+    <string name="tab_contact">CONTACT</string>
+    <string name="projects">
+        <b>Network Packet Sniffer and Interceptor</b>:A program that reliably captures the network packets in Realtime and logs them to a file if the visitor visits any of the pre-defined websites which include (white-list and black-list). If the user tried to visit a blacklisted website, he will be redirected to a webpage specifying that this website is blocked and then will be redirected to Google.\n
+        <b>Automatic Number Plate Recognition (Graduation Project)</b>:Android applicationA real-time system that recognizes car plate numbers from live stream video, using a tensorflow trained model and YOLO V3 Algorithm.\n
+        <b>E-Commerce Store</b>:An E-Commerce web application with a dashboard for both Admin, Seller, and Buyer. Some features of the application are buying, selling, checking order history, changing order status, downloading, and printing the receipt, reviewing products, and integrating payment methods with Stripe and Paypal as Payment Gateway.\n
+        <b>Files compression and decompression</b>:A Huffman coding library. Works on files and folders. The encoder is a 2 pass encoder. The first pass generates a Huffman tree and the second pass encodes the data. The decoder is one pass and uses a Huffman code table at the beginning of the compressed file to decode.</string>
+</resources>
